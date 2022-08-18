@@ -1,0 +1,31 @@
+{
+  "name": "text-glitcher",
+  "version": "0.0.9",
+  "description": "A simple react text glitcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/le4onardo/TextGlitcher.git"
+  },
+  "keywords": [
+    "react",
+    "css",
+    "glitcher",
+    "glitch"
+  ],
+  "author": "Leonardo Julio Rios Aliaga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/le4onardo/TextGlitcher/issues"
+  },
+  "homepage": "https://github.com/le4onardo/TextGlitcher#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
