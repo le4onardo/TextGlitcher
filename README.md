@@ -30,9 +30,15 @@ ___
 
 # Properties
 
+* text: string
+  the text to glitch
+* intensity: number
+  a normalized (from 0 to 1) text offset intensity flag
+* colorIntensity: number
+  a normalized (from 0 to 1) color offset intensity flag
 
 # ToDo
-
+* make css behaviour random
 
 # Credits
 
